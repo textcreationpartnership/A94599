@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the right honorable Sir Thomas Fairfax K. (His Excellency) general of all the forces raised for the regaining of Englands liberty ... The humble petition of all the inslaved Christians in the several slaughter-houses of this kingdom (called gaols and prisons) being your brethren &amp; fellow-common [sic] of England ... imprisoned for debt, and by arbitrary power, and other illegal restraints ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94599</idno>
+            <idno type="STC">Wing T1613C</idno>
+            <idno type="STC">ESTC R185218</idno>
+            <idno type="EEBO-CITATION">43077693</idno>
+            <idno type="OCLC">ocm 43077693</idno>
+            <idno type="VID">151804</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94599)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151804)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2277:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the right honorable Sir Thomas Fairfax K. (His Excellency) general of all the forces raised for the regaining of Englands liberty ... The humble petition of all the inslaved Christians in the several slaughter-houses of this kingdom (called gaols and prisons) being your brethren &amp; fellow-common [sic] of England ... imprisoned for debt, and by arbitrary power, and other illegal restraints ...</title>
+                  <author>Baynes, John.</author>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1646?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication information suggested by Wing.</note>
+                  <note>Signed: John Baynes ... [et al.].</note>
+                  <note>"To the ... Lords and Commons in Parliament ... The humble petition": p. 5-6; "To the ... House of Commons ... The humble petition": p. 6-7.</note>
+                  <note>Reproduction of original in: William Andrews Clark Memorial Library, University of California, Los Angeles, California.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Debt, Imprisonment for --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <div type="part">
+               <pb n="1" facs="tcp:151804:1"/>
+               <head>To the right Honorable Sir THOMAS FAIRFAX K. (His Excellency) General of all the Forces raiſed for the regaining of <hi>Englands Liberty;</hi> the Honorable the Commanders in chief, and others the Commanders and Soldiers of the pious and victorious Ar<g ref="char:EOLhyphen"/>my; Now appearing (as <hi>Englands</hi> Champions) for the maintai<g ref="char:EOLhyphen"/>nance of Gods honor, and this their native Countries juſt Liberty, Peace, and Tranquillity.</head>
+               <head type="sub">
+                  <hi>The humble Petition of all the inſlaved Chriſtians in the ſeveral Slaughter-houſe so, this Kingdom (called Gaols and Priſons) being your Brethren &amp; Fellow-Common of</hi> England (<hi>conceived to be about</hi> 10000 <hi>in number) impriſoned for Debt, and by Arb<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>trary Power, and other illegal reſtraints, contrary to the I aw of God, and all other Nations both Chriſtian and Pagan, and flatly againſt the Contents of the great Charter of</hi> Englands Liberty, <hi>formerly purchaſed, and now againe re<g ref="char:EOLhyphen"/>gained by the blood of many thouſands of the Commons of</hi> England. <hi>In all humility complaining, Sheweth,</hi>
+               </head>
+               <p>THat by the ancient and fundamental common Laws of <hi>England</hi>
+                  <note n="a" place="margin">Mirror of Juſtice <hi>cha.</hi> 5. Int. 1. num. 57</note> declared and aſſerted by the great Charter of our Liberties
+<note n="b" place="margin">9 of <hi>Hen.</hi> 3. cha, 8.</note> 
+                  <hi>Magna Charta,</hi> no mans perſon was to be Impriſoned for Debt, nor his Sureties to be troubled, if the principal Debtor were able to pay: <hi>But their Eſtates on<g ref="char:EOLhyphen"/>ly made liable (in the two third parts thereof) to ſatisfie the Debt:</hi> Which Statute being the inexpugnable fortreſs of <hi>Englands Freedom,</hi> Hath not only been 32. times confirmed by ſeveral Acts of Parlia<g ref="char:EOLhyphen"/>ment, in former Kings reigns,
+<note n="c" place="margin">
+                     <hi>Cooks</hi> Inſtit. 4 part P. 35. <hi>Anno</hi> 3. <hi>Caro. Anno</hi> 17. <hi>Caroli</hi>
+                  </note> but alſo hath been ſince ratified by our Soveraign Lord King <hi>Charls,</hi> both by the Petition of Right, 3<hi rend="sup">o</hi> 
+                  <hi>Car.</hi> and by Act paſſed by his Majeſties royal aſſent this preſent Parliament (<hi>Anno</hi> 17. <hi>Caroli.</hi>) Againſt which Charter, All Statutes and Judg<g ref="char:EOLhyphen"/>ments formerly made or given, or hereafter to be made or given, are
+<note n="d" place="margin">28 of <hi>Ed.</hi> 1. c. 1. 42 <hi>Ed.</hi> 3. cha, 1.</note> by ſeveral Acts declared to be null and voyd:
+<note n="e" place="margin">
+                     <hi>Fleta</hi> p. 1. c. 26. <hi>Bracton</hi> P. 3. fol. 105. &amp; 137. <hi>Britton</hi> c. 5. ſo. 14. Mirror c. 2. <hi>ſect.</hi> 9. alſo <hi>c.</hi> 5 <hi>ſect.</hi> 1. 8 <hi>Ed.</hi> 2. Fits Coron. 432. 7 <hi>Edw.</hi> 3. BR. rot. 44.24 He. 8 Di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r 249. P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e Com. 360. <hi>Cook</hi> l. 3. fo 44 lib. 8. fo. 100. <hi>vox plebis</hi> P. 55, 56, 57. Op<g ref="char:EOLhyphen"/>preſſed mans Oppreſſion P. 2, 3, 4.</note> And that neither thoſe that are impriſoned for Debt at the Kings ſuit only, nor any o<g ref="char:EOLhyphen"/>thers committed for Treaſon, Felony, Murther, or Treſpaſs, before conviction or attainder, ought to be put into Irons, or otherwiſe to be puniſhed, but only to be ſafely kept; Priſons being only for cuſto<g ref="char:EOLhyphen"/>dy and not for puniſhment to the Priſoners.
+<note n="f" place="margin">Mirror <hi>c</hi> 4. <hi>ſect.</hi> 9.</note> And whereas by the ſaid common Laws of <hi>England,</hi> Gaolers that detain their Priſoners in Priſon, by colour of right for their fees until they dye, or cauſe their Priſoners to periſh by famine, beating or wounding, by hard uſage, ſtrickt or cloſe Dureſs, or by putting them into Irons or Dungeons which procure their death, are guilty of <hi>Homicide</hi> or <hi>Man-ſlaughter.</hi>
+               </p>
+               <pb n="2" facs="tcp:151804:2"/>
+               <p>That by the ſaid Laws, Gaolers or Guardians of Priſons are prohi<g ref="char:EOLhyphen"/>bited to ſpoil their Priſoners of their goods, or to take any thing from them, for, by, or under any pretence of Fees, either at their coming into the Priſon or going out
+<note n="g" place="margin">Mirror c. 5. <hi>ſect.</hi> 1. Mirror 52, 53.</note>: And whereas likewiſe, all manner of Extortions, Oppreſſions and illegal vexation of Sherifes, Gaolers, and Priſon-Keepers, exerciſed and practiced upon their Priſoners, is ſtrictly prohibited and defended by divers good and wholſome Laws and Statutes of this Realm
+<note n="h" place="margin">4 Ed. 3. <hi>c.</hi> 10 23 <hi>He.</hi> 6. <hi>c.</hi> 10. 3 Ed. 1. <hi>c.</hi> 26. 25 Ed. 3 <hi>c.</hi> 17. <hi>Liberty againſt ſlavery</hi> ſo. 4, 5, 7.</note>: And Gaolers and Guardians of Pri<g ref="char:EOLhyphen"/>ſons (and Sherifes) are to take nothing for the execution of their offi<g ref="char:EOLhyphen"/>ces, but only of the King, except 4 pence to be required and taken of the Priſoner at the time of his diſcharge and not before, conferred on them by the Statute of the 23. of <hi>Henry</hi> 6. chap. 10.</p>
+               <p>That contrary to theſe good Statutes (and the great Charter of <hi>Englands Liberty</hi>) the perſons of the free-commons of <hi>England</hi> are ſtill moſt unjuſtly and cruelly (for an unlimited time) inſlaved in the ſeveral Gaols and Priſons, and thereby inhumanly robbed of their juſt and precious Liberties, Eſtates and Callings, whereby they, their wives and children are expoſed to the cruel wills of their Oppreſſors, and ſo become the very ſpectacle of miſery; not pityed by any, nor hitherto by the State regarded nor relieved: Notwithſtanding their many ſe<g ref="char:EOLhyphen"/>veral Petitions (for theſe 6 years paſt) preſented to them for Releaſe from this Aegyptian bondage. That in purſuance of their uncon<g ref="char:EOLhyphen"/>troubled inhumane cruelties, Gaolers and Priſon-keepers have and dayly do inforce from Priſoners their goods and moneys, illegal fees and ex<g ref="char:EOLhyphen"/>ceſſive Chamber-rent; <hi>viz.</hi> Fees of a Mark, five Mark, five pound, and ten pound, and for Chamber-Rent from each Priſoner no leſs then 5 s. 8 s. 10 s. yea from ſome 20 s. a week, and in the Common Wards, where nothing of Right ought to be by them re<g ref="char:EOLhyphen"/>quired or taken; they exact from each poor priſoner (although two lodged in one bed) no leſs then 14. pence a week, beſides divers others unexpreſſible exactions. That many hundreds of priſoners have been (as ſome ſtill are) by Gaolers and Priſon-keepers and their helliſh Subſtitutes cloſe impriſoned in Chambers and Dungeons, for divers days, moneths and years, aſſaulted, beaten, wounded, robbed, and violently at midnight dragg'd out of their own beds and lodged on the cold bare ground; Tormented and decripped by Iron Fetters, ſtarved and violently murthered; yea, ſome kept in Irons (hands and feet) till their Excrements coming from their body rotted their funda<g ref="char:EOLhyphen"/>ments; Others being by their creditors diſcharged, are notwithſtand<g ref="char:EOLhyphen"/>ing by Gaolers detained in Priſon meerly for their own unjuſt exacting
+<pb n="3" facs="tcp:151804:2"/>fees, where many have thus miſerably periſhed: And alſo uſually comi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ing Felons &amp; Murtherers with Debtors, contrary to the Statute of ſafety. Thus Priſons are none other then places of Torment, ruin, and deſtru<g ref="char:EOLhyphen"/>ction to the Commons of <hi>England;</hi> and Gaolers and Priſon-Keepers none other then tormenters and lawleſs executioners of their own eruel wils, who, although complained of, yet the Priſoners juſt com<g ref="char:EOLhyphen"/>plaints are not heard, but they ſtil ſuffered to perſiſt in theſe their cruel illegal courſes, and like vipers ſucking the vital blood of the poor Pri<g ref="char:EOLhyphen"/>ſoners, and defrauding them of their Legacies and Collection moneys gathered in every County of this Realm, and Courts of Juſtice for their relief, they murther the poor innocent, to whom they deny the priviledg which is by them dayly afforded unto Felons.</p>
+               <p>The premiſes juſtly weighed, and for that Impriſonment of the bo<g ref="char:EOLhyphen"/>dy for 10, 20, 30, or 40. years, diſcounts not one penny of Debt to the Creditor, but only for a time brings the Griſt of wicked gain to the Lawyers and Attornies covetous mills of ungodly contention, with inevitable ruin to the Debtor, his wife, children and family; Lawyers, Attornies and Gaolers being none other then poor, diſtreſſed, inſlaved <hi>Englands</hi> Canker-worms, and devouring Caterpillers of mens Eſtates, Liberties and lives. The <hi>Law</hi> of <hi>England</hi> being a <hi>Law</hi> of mercy and preſervation to the people, and not a law of Tyranny, Oppreſſion and Deſtruction, as hitherto it hath been and ſtill is <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>; By which law the the two third parts only of the Debtors Eſtate is made liable to the ſatisfaction of his juſt Debts, the reſt being reſerved to the Debtor for his future ſubſiſtance and education of his children, and the perſons acquitted from future trouble for the ſame.</p>
+               <p>Your poor diſtreſſed and unjuſtly inſlaved Petitioners do therefore humble beſeech you (in the bowels of compaſſion) to commiſerate this their grievous unlimited oppreſſive condition of being; and according to the rules of juſtice and charity (and the pious ſenſibility of your unjuſtly inſlaved Brethrens miſery) to be pleaſed, amongſt other your weighty and humble Addreſſes to the high and honorable Court of Parliament, to preſent theſe our grievances &amp; juſt requeſts with deſire, That according to the fundamental Laws of the land, the perſons of all the Commons of <hi>England</hi> may be reſtored to their ancient, legal and juſt <hi>Liberties</hi> (as at the firſt); and that the current of Juſtice may be freely opened to all; That ſo the poor Commons of <hi>England</hi> may not ſtill be inforced (by mercenary <hi>Lawyers</hi> and contentious <hi>Attornies</hi>) to buy Juſtice for the corrupt price of iniquity; nor at ſuch high rates as hitherto they have been inforced to do, to the utter
+<pb n="4" facs="tcp:151804:3"/>ruin of their Eſtates, Houſes, and Families: Your Petitioners not be<g ref="char:EOLhyphen"/>ing able to acquit themſelves from this inhumane ſlavery, by the abominable, unlimited, chargeable courſe of the law, practiced by all the mercenary inſtruments of contention, in Petty-fogging latine and Pedlers French, by theſe ſupporters of contention; And alſo that Gaolers and Priſon-Keepers may be regulated in their illegal, unlimited tyrannical power, potency, cruelty, and exactions, that ſo we and the poſterity of this whole Nation being freed from this Aegyptian bon<g ref="char:EOLhyphen"/>dage, may have juſt cauſe to eternize the memory of your Excellency and the reſt of the honorable Commanders and pious Souldiery <hi>(truths faithful Champions)</hi> as of the true and faithful reſtorers of the ancient and juſt birth-right, and liberty of the inſlaved Commons of <hi>England:</hi> And your Petitioners, their wives, and children, and families (as bound] ſhal ever pray for a bleſſing on your faithful endeavors, and for the ſpeedy ſucceſſes of this bleeding Kingdoms cauſe by you taken in hand, to Gods glory and <hi>Englands</hi> Peace and Tranquillity.</p>
+               <closer>
+                  <signed>Subſcribed for themſelves, and all others their impriſoned and un juſtly inſtaved brethren and fellow-Commons of <hi>England,</hi> By
+<list>
+                        <item>John Baynes.</item>
+                        <item>Rubine Cunningham.</item>
+                        <item>Richard Carter.</item>
+                        <item>John Robinſon.</item>
+                        <item>Richard Raynolds.</item>
+                        <item>George Biſhop.</item>
+                        <item>Richard Gardner.</item>
+                        <item>Richard Fletcher.</item>
+                        <item>Thomas Madgwicke.</item>
+                        <item>William Hayſe.</item>
+                     </list>
+                  </signed>
+               </closer>
+               <postscript>
+                  <p>
+                     <hi>And I rebuked the Nobles and Rulers, ſaying, You exact uſury every one of his brother, and I ſet a great Aſſembly a<g ref="char:EOLhyphen"/>gainſt them; For I was very angry when I heard the cry [of the oppreſſed] and I ſaid, Our fleſh is as the fleſh of our Bre<g ref="char:EOLhyphen"/>thren, our children as their children: and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o we bring into bondage our ſons and our daughters: And I ſaid, It is not good, that which ye do; ought ye not to walk in the fear of our God,</hi> Nehemiah 5.5, 6, 7, 9? <hi>But ye have not proclaimed Liberty every one unto his neighbour,</hi> Ier. 37.17. <hi>For if thy brother be waxen poor and faln to de<g ref="char:EOLhyphen"/>cay, then thou ſhalt relieve him; yea though he be a ſtranger, that he may live with thee: Ye ſhal not oppreſs one another,</hi> Levit. 26.17.35. <hi>And ye ſhal do no un<g ref="char:EOLhyphen"/>righteouſneſs in Judgment: But in righ<g ref="char:EOLhyphen"/>teouſneſs ſhalt thou judg thy neighbour,</hi> Levit. 19.15. Jer. 9.5, 6, 8, 9.</p>
+               </postscript>
+            </div>
+            <div type="part">
+               <pb n="5" facs="tcp:151804:3"/>
+               <head>To the right Honorable the LORDS and COMMONS in <hi>PARLIAMENT</hi> aſſembled at <hi>Weſtminſter.</hi>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1643"/>
+               </head>
+               <head type="sub">The humble <hi>Petition</hi> of divers wel affected Commons of <hi>England,</hi> in the behalf of themſelves and others their inſlaved Fellow Commons, impriſoned for Debt and other illegat reſtraints, within the ſeveral Priſons in this Kingdom, conceived to be about <hi>10000.</hi> in number (at the leaſt) Complaining, Sheweth,</head>
+               <p>THat theſe their fellow Commons Inſlaved, having former<g ref="char:EOLhyphen"/>ly, by ſeveral Petitions addreſſed themſelves to this Ho<g ref="char:EOLhyphen"/>norable aſſembly, for their undeniable Birth-right (which is their Liberty) and aquittance from this unlimitted Im<g ref="char:EOLhyphen"/>priſonment faſtened on them, and us; And the poſterity of this whole Nation, By the covetous Inſtruments of contention, through their unexpreſſible abuſe of <hi>Magna Charta,</hi> which is the only Sure Contract and perpetual Law, between the <hi>King</hi> and his <hi>Subjects,</hi> In all which <hi>They nor We,</hi> have hitherto reaped any Redreſs <hi>Accor<g ref="char:EOLhyphen"/>ding to our juſt Expectation:</hi> That in the 3. year of the King, The body of this Common-wealth being Senſible of many Sufferings. Oc<g ref="char:EOLhyphen"/>caſioned by the breach of <hi>Magna Charta,</hi> The Lords and Commons then aſſembled in Parliament, Petitioned his Majeſty for Confirma<g ref="char:EOLhyphen"/>tion thereof <hi>(Which Implies their conſents to it)</hi> To which his Majeſty then aſſented and ſince Confirmed <hi>(Which Implies an Act, and a legal confirmation)</hi> whereby we truly apprehend. That all Latter Statutes made in Contradiction thereof. Tending to the betray<g ref="char:EOLhyphen"/>ing of the Subjects Liberty <hi>(By inſlaving their Perſons)</hi> are abſo<g ref="char:EOLhyphen"/>lutely become <hi>Null,</hi> and cannot now ſtand in force, as by the 42. of <hi>Ed.</hi> 3. c. 1. appeareth; <hi>For the leſſer muſt needs give Place to this Grea<g ref="char:EOLhyphen"/>ter.</hi> It having alſo bin maintained in this Honorable aſſembly, That the Commons muſt be eaſed in their <hi>Perſons</hi> from this Slavery of <hi>Im<g ref="char:EOLhyphen"/>priſonment being a free born people and no Slaves nor villians, Impri<g ref="char:EOLhyphen"/>ſonment being flatly againſt Magna Charta,</hi> which is the only foun<g ref="char:EOLhyphen"/>damental Mother Law of this Kingdom,
+<note place="margin">26 Edw. 3. <hi>c.</hi> 4.</note> Purchaſed <hi>(and now again Regained)</hi> by the Blood of many thouſands of our Anceſtors, <hi>Freinds and Allies.</hi>
+               </p>
+               <p>The premiſes Conſidered, and for that it is wel known, that Im<g ref="char:EOLhyphen"/>priſonment of the body for 10.20.30. or 40. years together, diſ<g ref="char:EOLhyphen"/>counts not one penny Debt to the Creditor, but only <hi>(For a time)</hi> brings Griſt to the Lawyers and Atturnies mills of <hi>Wicked contention,</hi>
+                  <pb n="6" facs="tcp:151804:4"/>Gain to the Cruel-Gaoler and his Subſtitutes, <hi>with Inevitable Ruin to the Poor Debtor (his Wife, children, and Family)</hi> who by this Cruelty is Debarred of his precious <hi>Liberty; livelyhood,</hi> and <hi>calling:</hi> your petitioners therefore humbly pray, that according to the pious Rule of Juſtice and Charity, and the fundamental <hi>Law of this Land,</hi> All the perſons of the Commons of England may be Reſtored to their ancient <hi>Legal</hi> and juſt <hi>Liberty (as at the firſt)</hi> and the Current of <hi>Juſtice</hi> freely opened to all, which your Petitioners humbly Con<g ref="char:EOLhyphen"/>ceive cannot be truly Effected: ſo long as <hi>Lawyers</hi> and <hi>Atturnies</hi> (The Covetous <hi>Mercinary Inſtruments of contention</hi>) be permitted to ſit in the Houſe, who are Conceived to be the only <hi>Obſtructors of Juſtice in this Kingdom.</hi> This being done, your Petitioners as alſo their unjuſtly Inſlaved Brethren wil then <hi>(as is hoped)</hi> be Inabled to partake of Juſtice <hi>Freely:</hi> and not ſtil be Inforced (by Lawyers and Atturnies) to buy it for the Corrupt price of Iniquity, nor at ſuch high Rates as hitherto they have done, to the utter Ruin of their E<g ref="char:EOLhyphen"/>ſtates, Houſes and Families: And that according to <hi>Magna Charta,</hi> the <hi>Debtors Eſtates,</hi> (if any Remaining) may be made Lyable <hi>(In the two third parts thereof)</hi> to the ſatisfaction of their Juſt Debts, By which great Charter, a Charitable Conſideration is had to the fu<g ref="char:EOLhyphen"/>ture Subſiſtence of the <hi>Debtors,</hi> their wives and children, and alſo that Priſons may be Regulated, and Priſon keepers, abridged of their Illegal, unlimitted, <hi>Tyrannical Power, Potency,</hi> and <hi>Exactions.</hi> That ſo we and all our Poſterities being ſteed from this <hi>Aegyptian bon<g ref="char:EOLhyphen"/>dage,</hi> may have Juſt cauſe to Eternize the memory of his Majeſty, and of this Honorable aſſembly, as of the Reſtorers of their <hi>Ancient and Juſt Birth-right and Liberty.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>To the Honorable the Houſe of <hi>Commons</hi> in Parliament aſſembled.
+<milestone type="tcpmilestone" unit="unspecified" n="1646"/>
+               </head>
+               <head>The humble <hi>Petition</hi> of divers wel. affected Commons of <hi>England,</hi> in the behalf of their poor inſlaved Brethren, languiſhing in ſeveral Priſon, with<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n this Kingdom. Moſt humbly ſheweth,</head>
+               <p>THat this Honorable Aſſembly was pleaſed ſome 5. years ſince to heare the Petition of the poor priſoners for Debt, and to refer the fame to a Committee (whereof <hi>Henry Martine</hi> Eſquire was then Chair<g ref="char:EOLhyphen"/>man) for the drawing up of an Ordinance for their remedy and redreſs, which was done accordingly, But yet hitherto unhappily obſtructed, whereby many poor Priſoners (their wives and children) for want of timely redreſs, have ſince periſhed, and many others are conſumed and utterly diſabled to ſubſiſt. Now for that the ſaid Ordinance was long ſince reſolved on, and by M. <hi>Mar<g ref="char:EOLhyphen"/>tine</hi> brought into this Honorable Houſe to be read; Yet there hitherto obſtru<g ref="char:EOLhyphen"/>cted, ſo as the hearts of the oppreſſed (through this long delay) ready faynt
+<pb n="7" facs="tcp:151804:4"/>within them, their miſeries being thereby augmented, and for that alſo, a great number, who have with al fidelity ſerved the Parliament, and have not received their pay <hi>(Due)</hi> are at this preſent Impriſoned for their debts, which they can no ways ſatisfy until they have received their arrears for the ſaid ſervic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, by which means many of them have periſhed, and the reſt likely to periſh miſerably, and their families to be utterly ruined.</p>
+               <p>Your poor Petitioners therefore in the bleeding ſence of their <hi>(unjuſtly inſlaved)</hi> brethrens extream ſufferings, do humbly pray; That ye the choſen, convened for their deliverance from oppreſſion and injuſtice, and for the preſervation of their juſt Rights and Liberties, wil now (after ſo long time of their expectancy (in durance and miſery) be pleaſed forthwith to comiſerate their deplorable eſtates, and according to your duty, the fundamental Law of the Land, and Petition of Right; ſeriouſly to conſider the premiſes, and ſpeedily according to juſtice, to aſſign unto every of them their juſt liberty &amp; freedom, from this unjuſt bondage and ſlavery; They having long cryed and none have regarded this their unjuſtly impoſed miſerable Thraldom; in which not only the preſent Petitioners, but the poſterity of all the freeborn Com<g ref="char:EOLhyphen"/>mons of England are meerly concerned; this being by you accompliſhed, then not only your Petitioners, but future generations ſhal be ever bound to call you the bleſſed inſtruments of juſtice, for the Regaining of their ancient and juſt Rights and Liberties.</p>
+               <p>
+                  <hi>Ye ſhal do no unrighteouſneſs in judgment,</hi> Levi. 19.15. <hi>Thou ſhalt not oppreſs nor vex the ſtranger, the widdow, the fatherleſs child, nor the poor. For if thou afflict them and they cry unto me. I wil ſurely heare their cry: And my wrath ſhal wax hot, and I wil kill you with the ſword: and your wives ſhal be widdows, and your children fa<g ref="char:EOLhyphen"/>therleſs,</hi> Exod. 22.21, 22, 23, 24. <hi>Therefore execute true judg<g ref="char:EOLhyphen"/>ment, ſhew mercy and compaſſion every man to his Brother, and oppreſs not the widdow, the ſtranger, nor the poor, and let none of you imagine evil againſt his brother in your heart, and execute the judgment of truth and Peace in your Gates, and love no falſe oaths</hi> Zach. 7.9, 10. Zach. 8.16, 17. Nor ſel juſtice for the price of iniquity as hitherto you have done. <hi>vivat rex.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <argument>
+               <p>Many more Petitions of the like nature being from time to time pre<g ref="char:EOLhyphen"/>ſented, have bin obſtructed, and the parties greived, not heard nor releived, but their miſerable Bondage rather augmented, and they thereby diſcouraged from renewing their complaints againſt theſe their <hi>Aegyptian</hi> task-maſters, <hi>viz.</hi> Lawyers, Attornies, Gaolers, and cruel creditors, Diſtreſſed, and miſerably inſlaved, Englands Can<g ref="char:EOLhyphen"/>ker-wormes, and devouring Caterpillers of mens Eſtates, Liberties, and lives, and formenters of all Contention, Tyranny, and Oppreſſion.</p>
+            </argument>
+            <trailer>vivat Rex.</trailer>
+            <pb facs="tcp:151804:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
